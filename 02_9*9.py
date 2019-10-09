@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Sep 25 15:15:48 2019
-
-@author: user
-"""
 
 for i in range (1, 10):
     for j in range (1,10):
