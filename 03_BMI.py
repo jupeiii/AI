@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Sep 25 15:16:58 2019
 
-@author: user
-"""
 BMI = 0
 height = int (input("請輸入身高 (cm):"))
 weight = int (input("請輸入體重 (kg):"))
